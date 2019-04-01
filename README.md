@@ -1,4 +1,4 @@
-#Automatic Grouping
+# Automatic Grouping
 
 This project utilizes TabuSearch algorithm to group students and maximize the intra-group students diversity.
 
